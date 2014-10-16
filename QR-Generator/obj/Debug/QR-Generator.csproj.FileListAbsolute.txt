@@ -1,0 +1,1 @@
+C:\Users\Ryan\Google Drive\C#\QR-Generator\QR-Generator\bin\Debug\QR-Generator.exe.config
